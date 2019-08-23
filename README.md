@@ -1,2 +1,2 @@
 # Brincando-de-Python
-Alguns teste enquanto aprendo a liguagem
+Alguns testes enquanto aprendo a liguagem
