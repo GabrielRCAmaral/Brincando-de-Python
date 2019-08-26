@@ -1,2 +1,3 @@
 # Brincando de Python
-Alguns testes enquanto aprendo a linguagem. Realizarei problemas do site Uri Online Judge, problemas tipicos de maratonas de programação e competições. Começarei do nível mais básico com problemas de soma e produto até problemas mais complexos que exigem lógicas mais sofisticadas.
+
+Com o objetivo de desenvolver habilidade e aprender Python estou criando esse repositório. Desenvolverei dois projetos: solucionar problemas do site URI Online Judge e realizar teste no Jupyter a fim de desenvolver habilades em Data Science.
