@@ -1,7 +1,7 @@
 from __future__ import print_function
 while True:
-    n=int(input())
     try:
+        n=int(input())
         for y in range(n):
             for j in range(n):
                 imp=3
